@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/aboutqt.png</file>
+        <file>icons/Lock-Lock-icon.png</file>
+        <file>icons/Lock-Unlock-icon.png</file>
+        <file>icons/open.png</file>
+        <file>icons/Save.png</file>
+        <file>icons/saveas.png</file>
+        <file>encryptdata.h</file>
+        <file>iconresource.qrc</file>
+        <file>main.cpp</file>
+        <file>mainwindow.cpp</file>
+        <file>mainwindow.h</file>
+        <file>mainwindow.ui</file>
+        <file>simplecrypt.cpp</file>
+        <file>simplecrypt.h</file>
+        <file>TextEncryption.pro</file>
+        <file>icons/exit.png</file>
+        <file>icons/new.png</file>
+        <file>icons/Clear-icon.png</file>
+        <file>icons/Very-Basic-About-icon.png</file>
+        <file>icons/open-file-icon.png</file>
+    </qresource>
+</RCC>
