@@ -1,7 +1,7 @@
 # PlainTextEncryptionQt
 Plain Text Encryption using Qt Creator. Uses Simple SimpleCrypt Algorithm and has Basic Funtionality.
 
-[![Demo Video](https://img.youtube.com/vi/GUcIKdZUucE/0.jpg)](https://www.youtube.com/watch?v=GUcIKdZUucE)
+[Click here for Youtube Video Demo](https://www.youtube.com/watch?v=GUcIKdZUucE)
 
 ![S1](Screenshots/Ptn1.png)
 ![S2](Screenshots/Ptn2.png)
